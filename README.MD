@@ -81,4 +81,4 @@ Platform berita yang menggunakan NLP (fine-tuned BERT) untuk analisis bias dan c
 
 **Tech stack:** Python (PyTorch, Transformers), FastAPI, Qdrant, Next.js, Redis (cache hasil).
 **Kompleksitas:** Hard
-**Role:** AI Engineer (2), Backend (1), Frontend (1), Data Labeler (part-time)
+**Role:** Full Stack Developer
